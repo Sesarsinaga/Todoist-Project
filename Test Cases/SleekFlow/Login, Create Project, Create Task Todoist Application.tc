@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login, Create Project, Create Task Todoist Application</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a6a08d9e-b4d4-4efc-994e-31ba12184b03</testCaseGuid>
+</TestCaseEntity>
